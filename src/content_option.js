@@ -170,14 +170,14 @@ const resume = {
         {year:"2016", title:"Higher Secondary Certificate", credit:"Podar International School, Aurangabad."},
         {year:"2014", title:"Indian Certificate of Secondary Education ", credit:"Podar International School, Aurangabad."},
     ],
-    "Awards and Achievements": [{"2019":[{title:"“The Most Commendable Project” Award", credit:"Natarajan Education Society's Innovation Awards, Pune."},
+    "Achievements": [{"2019":[{title:"“The Most Commendable Project” Award", credit:"Natarajan Education Society's Innovation Awards, Pune."},
                                          {title:"Finalist Smart India Hackathon, Cyber Security", credit:"Ministry of External Affairs India, Kanpur."}]},
                                 {"2018":[{title:"Silver Medalist India Skills, Cloud Computing\n", credit:"Ministry of Skill Development and Entrepreneurship & National Corporation, New Delhi."},
                                          {title:"Winner Hackathon, AWS Educate Challenge", credit:"Amazon Web Services, New Delhi."}]},
     ],
-    "Work Experience and Projects":[
-        {"2023-present":[{month: "Nov-present", title:"Software Developer", type:"Part-time / Werkstudent", org:"Kamedi Gmbh", location:"Karlsruhe, Germany", desc:{type:"list", entries:[{subtitle:"HeatIt", url:"", text:"Python: internal application development"}]}}]},
-        {"2023":[{month: "July- Sept", title:"Software Developer: Full Stack", status:"Full-time / Werkstudent", org:"Platri GmbH", location:"Bochum, Germany", desc:{type:"list", entries:[{subtitle:"Danceflavors", url:"", text:"Typescript, NestJs, Angular, APIs, Platform"}]}}]},
+    "Work":[
+        {"2023-present":[{month: "Nov-", title:"Software Developer", type:"Werkstudent", org:"Kamedi GmbH", location:"Karlsruhe, Germany", desc:{type:"list", entries:[{subtitle:"HeatIt", url:"", text:"Python: internal application development"}]}}]},
+        {"2023":[{month: "July- Sept", title:"Software Developer: Full Stack", type:"Werkstudent", org:"Platri GmbH", location:"Bochum, Germany", desc:{type:"list", entries:[{subtitle:"Danceflavors", url:"", text:"Typescript, NestJs, Angular, APIs, Platform"}]}}]},
         {"2020- 2022":[{month: "Aug- Sept", title:"Full Stack Developer", type:"self-employment", org:"Tabme haftungsbeschränkt", location:"Bielefeld, Germany", desc:{type:"list", entries:[{subtitle:"tabme.io", url:"", text:"MERN: Ordering and payments platform"}]}}]},
         {"2021- 2022":[{month: "Dec- May", title:"Full Stack Development Trainee", type:"full-time", org:"IGNE Agency B.v.", location:"Utrecht, The Netherlands", desc:{type:"list", entries:[{subtitle:"", url:"", text:"React Native and Laravel"},
                         {subtitle: "Wincellar 1870", url: "", text: "e-commerce"},
@@ -193,9 +193,8 @@ const resume = {
                 {month: "Mar- Apr", title:"Cloud Architect Trainee", type:"", org:"Gov. India, NASSCOM & CtrlS DataCenters Ltd.", location:"Hyderabad, India", desc:{type:"list", entries:[{subtitle:"Government sponsored training", url:"", text:"AWS and Azure"}]}},
             ]},
         {"2018- 2019":[{month: "July- June", title:"Full Stack Developer", type:"self-employed", org:"TedTech LLP", location:"Mumbai, India", desc:{type:"list", entries:[{subtitle:"TedTech.in", url:"", text:"LAPP: freelancing and project delivery platform"}]}}]},
-        {"2016":[{month: "", title:"Self employed Web & Mobile Development", type:"self-employed", org:"", location:"Aurangabad, India", desc:{type:"list", entries:[{subtitle:"Hetvi-Moda", url:"", text:"LAMP: e-commerce fashion"}, {subtitle:"Sci-Clone", url:"", text:"Android Java: college event management app"}]}}]},
+        {"2016":[{month: "", title:"Web & Mobile Developer", type:"self-employed", org:"", location:"Aurangabad, India", desc:{type:"list", entries:[{subtitle:"Hetvi-Moda", url:"", text:"LAMP: e-commerce fashion"}, {subtitle:"Sci-Clone", url:"", text:"Android Java: college event management app"}]}}]},
     ]
-
 }
 
 
