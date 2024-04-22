@@ -12,7 +12,7 @@ const introdata = {
         third: "I develop apps",
         fourth: "I love nature.",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "Crafting software solutions that drive positive change and innovation.",
     your_img_url: "https://tabmeiobucket.s3.eu-central-1.amazonaws.com/portfolio/calanques.jpg",
 };
 
